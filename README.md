@@ -6,7 +6,7 @@ Open Source Data Engineering with PySpark, dbt, Apache Airflow
 
 
 
-Transformation Mapping Principles for Complex Data Pipelines
+**Transformation Mapping Principles for Complex Data Pipelines**
 
 Introduction
 
