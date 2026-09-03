@@ -1,4 +1,4 @@
-# Open-Source-Data-Engineeri
+# Open-Source-Data-Engineer
 Open Source Data Engineering with PySpark, dbt, Apache Airflow
 
 
